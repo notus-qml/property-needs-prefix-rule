@@ -1,0 +1,8 @@
+# Diretório de build gerado
+build/
+
+# Dependências instaladas
+node_modules/
+
+# Cache do TypeScript build info
+tsconfig.tsbuildinfo
